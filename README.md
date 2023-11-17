@@ -1,7 +1,8 @@
 
 <!--horizontal divider(gradiant)-->
+<div align="center">
 <img src="https://i.pinimg.com/originals/4d/ce/b6/4dceb657e38852a1abe4e0ac6840b561.gif">
-
+</div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
