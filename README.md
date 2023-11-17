@@ -22,8 +22,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">The dreamers may die, but their dreams live on!</h2></summary>
-    <h3 style="text-align: right">Dickison, Bruce</h3>
-
   </ul>
 </div>
 
