@@ -102,6 +102,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/DoughRosa/CurriculoVirtual/blob/main/AVALIA%C3%87%C3%83O%20M%C3%93DULO%20FRONT%20END/images/print.jpg">
- <a href="https://doughrosa.github.io/index.html" text-align="center">Clique aqui para ver a aplicação do meu site!</a>  
-
+<div align="center">
+ <a href="https://doughrosa.github.io/index.html" target="blank">Clique aqui para ver a aplicação do meu site!</a>  
+</div>
 
