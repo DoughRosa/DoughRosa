@@ -32,7 +32,7 @@
 
 - 🧠 Estou aprendendo **Programação: desenvolvedor WEB fullstack na Growdev (Html, Java e CSS)**
 
-- 💻 Minha linguagem de programação favorita é **Java**
+- 💻 Minha linguagem de programação favorita é **Javascript**
 
 - 📝 Sou formado em direito pela Fadergs e Pós-graduado em direito penal e processo penal pela Uniritter além de ser pós-graduado em direito de trânsito pela Faculdade Legale.
 
