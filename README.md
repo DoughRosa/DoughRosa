@@ -104,6 +104,3 @@
 <img src="https://github.com/DoughRosa/CurriculoVirtual/blob/main/AVALIA%C3%87%C3%83O%20M%C3%93DULO%20FRONT%20END/images/print.jpg">
 <a href="https://doughrosa.github.io/CurriculoVirtual/" target="blank">Aplicação Disponível Aqui</a>
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 17/11/2023
