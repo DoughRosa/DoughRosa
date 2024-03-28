@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://github.com/DoughRosa/AnimacaoItACoisa/blob/main/Aula%2021.03%20-%20Anima%C3%A7%C3%A3o/img/pc.gif">
+<img align="center" src="https://github.com/DoughRosa/AnimacaoItACoisa/blob/main/Aula%2021.03%20-%20Anima%C3%A7%C3%A3o/img/pc.gif">
 <div align="center">
  <a href="https://doughrosa.github.io/index.html" target="blank">Trabalho desenvolvido na 18ª Turma de Web Dev Fullstack da Growdev!</a>  
 </div>
