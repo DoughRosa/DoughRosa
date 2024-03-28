@@ -4,7 +4,7 @@
 <img src="https://github.com/DoughRosa/AnimacaoItACoisa/blob/main/Aula%2021.03%20-%20Anima%C3%A7%C3%A3o/img/pc.gif">
 </div>
  <div align="center">
- <a href="https://doughrosa.github.io/index.html" target="blank">Trabalho desenvolvido na 18ª Turma de Web Dev Fullstack da Growdev!</a>  
+ <a href="https://github.com/DoughRosa/AnimacaoItACoisa" target="blank">Trabalho desenvolvido na 18ª Turma de Web Dev Fullstack da Growdev!</a>  
 </div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -14,10 +14,9 @@
 </div>
 
 
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/DoughRosa/CurriculoVirtual/blob/main/AVALIA%C3%87%C3%83O%20M%C3%93DULO%20FRONT%20END/images/print.jpg"
+       alt="curriculo" /></a>
 </div>
 
 
