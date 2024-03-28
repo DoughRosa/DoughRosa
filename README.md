@@ -1,3 +1,10 @@
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá 👋, me chamo Douglas Rosa</h1></summary>
+  </ul>
+</div>
+
 
 <!--horizontal divider(gradiant)-->
 <div align="center">
@@ -6,12 +13,7 @@
  <div align="center">
  <a href="https://github.com/DoughRosa/AnimacaoItACoisa" target="blank">Trabalho desenvolvido na 18ª Turma de Web Dev Fullstack da Growdev!</a>  
 </div>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá 👋, me chamo Douglas Rosa</h1></summary>
-  </ul>
-</div>
+
 
 
 <div align="center">
