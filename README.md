@@ -1,8 +1,8 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://github.com/DoughRosa/CurriculoVirtual/blob/main/AVALIA%C3%87%C3%83O%20M%C3%93DULO%20FRONT%20END/images/print.jpg">
+<img src="Aula 21.03 - Animação/img/pc.gif">
 <div align="center">
- <a href="https://doughrosa.github.io/index.html" target="blank">Clique aqui para ver a aplicação do meu site!</a>  
+ <a href="https://doughrosa.github.io/index.html" target="blank">Trabalho desenvolvido na 18ª Turma de Web Dev Fullstack da Growdev!</a>  
 </div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
