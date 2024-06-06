@@ -57,7 +57,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DoughRosa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DoughRosa&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -99,7 +99,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DoughRosa&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
