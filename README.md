@@ -9,6 +9,7 @@
    <h2>Acesse meu Portifólio:</h2> <a href="https://douglas-rosa-portifolio.vercel.app/" target="blank">https://douglas-rosa-portifolio.vercel.app/</a>
 </div>
 
+<br>
 
 <!--horizontal divider(gradiant)-->
 <div align="center">
