@@ -3,7 +3,10 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá 👋, me chamo Douglas Rosa</h1></summary>
   </ul>
-  <h2>Acesse meu Portifólio:</h2> <a href="https://douglas-rosa-portifolio.vercel.app/" target="_blank">https://douglas-rosa-portifolio.vercel.app/</a>
+</div>
+
+<div align="center">
+   <h2>Acesse meu Portifólio:</h2> <a href="https://douglas-rosa-portifolio.vercel.app/" target="blank">https://douglas-rosa-portifolio.vercel.app/</a>
 </div>
 
 
